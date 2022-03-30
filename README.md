@@ -1,3 +1,9 @@
+# Setup
+
+- [ ] Update App Properties 
+    <br>file path:
+    <br>axelor-studio/src/test/resources/application.properties
+
 Axelor Open Suite
 ================================
 
